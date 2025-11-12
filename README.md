@@ -113,13 +113,6 @@ Password: admin123
 Role: Administrator
 ```
 
-### 👤 **Regular Users**
-```
-Username: john_doe    | Password: user123
-Username: jane_smith  | Password: user123  
-Username: bob_wilson  | Password: user123
-Username: alice_brown | Password: user123
-```
 
 ## 📱 How to Use
 
