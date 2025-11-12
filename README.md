@@ -2,7 +2,7 @@
 
 A comprehensive, production-ready chat application built with **Java Servlets**, **JSP**, **MySQL**, and **XML logging**. Features both one-to-one and group messaging with a modern, responsive web interface.
 
-![Java](https://img.shields.io/badge/Java-8+-orange) ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue) ![Tomcat](https://img.shields.io/badge/Tomcat-8.5-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Java](https://img.shields.io/badge/Java-8+-orange) ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue) ![Tomcat](https://img.shields.io/badge/Tomcat-8.5-green) 
 
 ## ✨ Features
 
