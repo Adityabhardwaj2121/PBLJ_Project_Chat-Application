@@ -1,0 +1,16 @@
+com\chatapp\servlet\RegisterServlet.class
+com\chatapp\dao\UserDAO.class
+com\chatapp\servlet\LoginServlet.class
+com\chatapp\servlet\ChatServlet.class
+com\chatapp\servlet\GroupServlet.class
+com\chatapp\model\Message.class
+com\chatapp\filter\AuthenticationFilter.class
+com\chatapp\servlet\LogoutServlet.class
+com\chatapp\servlet\MessageServlet.class
+com\chatapp\model\Group.class
+com\chatapp\model\User.class
+com\chatapp\util\DatabaseConnection.class
+com\chatapp\dao\GroupDAO.class
+com\chatapp\util\XMLMessageLogger.class
+com\chatapp\dao\MessageDAO.class
+com\chatapp\servlet\AdminServlet.class
