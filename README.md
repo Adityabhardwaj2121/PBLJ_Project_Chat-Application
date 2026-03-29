@@ -294,9 +294,6 @@ private static final String PASSWORD = ""; // Default XAMPP password
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🎉 Ready to Chat!
 
